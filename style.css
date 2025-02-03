@@ -1,0 +1,33 @@
+body {
+    
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.container {
+    background-color: #b9d6e8;
+    padding: 50px;
+    width: 300px;
+    margin: 0 auto;
+}
+h2 {
+    text-align: center;
+}
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px ;
+  
+   
+}
+button {
+    background-color: hsl(313, 34%, 73%);
+    color: white;
+    
+}
+button:hover {
+    background-color: #b61cb3;
+}
+h3 {
+    text-align: center;
+}
